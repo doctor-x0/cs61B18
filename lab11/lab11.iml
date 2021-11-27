@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="CheckStyle-IDEA-Module">
+    <option name="configuration">
+      <map />
+    </option>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/.." />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../ec1" />
+          <root url="file://$MODULE_DIR$/../hw1" />
+          <root url="file://$MODULE_DIR$/../hw2" />
+          <root url="file://$MODULE_DIR$/../hw3" />
+          <root url="file://$MODULE_DIR$/../hw4" />
+          <root url="file://$MODULE_DIR$/../hw5" />
+          <root url="file://$MODULE_DIR$/../hw6" />
+          <root url="file://$MODULE_DIR$/../hw7" />
+          <root url="file://$MODULE_DIR$/../lab1" />
+          <root url="file://$MODULE_DIR$/../lab10" />
+          <root url="file://$MODULE_DIR$" />
+          <root url="file://$MODULE_DIR$/../lab12" />
+          <root url="file://$MODULE_DIR$/../lab13" />
+          <root url="file://$MODULE_DIR$/../lab14" />
+          <root url="file://$MODULE_DIR$/../lab15" />
+          <root url="file://$MODULE_DIR$/../lab2/DebugPractice" />
+          <root url="file://$MODULE_DIR$/../lab2/Intlist" />
+          <root url="file://$MODULE_DIR$/../lab2setup" />
+          <root url="file://$MODULE_DIR$/../lab3/Arithmetic" />
+          <root url="file://$MODULE_DIR$/../lab3/Flik" />
+          <root url="file://$MODULE_DIR$/../lab3/IntList" />
+          <root url="file://$MODULE_DIR$/../lab9" />
+          <root url="file://$MODULE_DIR$/../proj0" />
+          <root url="file://$MODULE_DIR$/../proj1a" />
+          <root url="file://$MODULE_DIR$/../proj1b" />
+          <root url="file://$MODULE_DIR$/../proj1gold" />
+          <root url="file://$MODULE_DIR$/../proj2" />
+          <root url="file://$MODULE_DIR$/../proj3/src/main/java" />
+          <root url="file://$MODULE_DIR$/../proj3/src/test/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="javalib" level="project" />
+  </component>
+</module>
